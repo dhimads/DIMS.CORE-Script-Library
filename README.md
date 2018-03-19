@@ -1,4 +1,5 @@
-# Hello-World
-My first Repository
+# DIMS.CORE Script Library
 
-Testing commit
+Root repository of DHI DIMS.CORE Script Library
+
+Macro scripting in Winwrap
