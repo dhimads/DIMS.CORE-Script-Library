@@ -1,0 +1,3 @@
+Function FTest(ByVal x As Double, ByVal y As Double, ByRef res As Double)
+	res = x + y
+End Function
