@@ -1,2 +1,2 @@
-#Test 2
+# Test 2
 This is just a test script
