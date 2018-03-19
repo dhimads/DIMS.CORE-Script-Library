@@ -1,0 +1,3 @@
+Function FTest2(ByVal x as Double, ByVal y as Double, ByRef res as Double)
+  res = x / y
+End Function
